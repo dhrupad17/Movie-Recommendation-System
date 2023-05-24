@@ -1,4 +1,4 @@
-# Movie Recommendation System
+# 🎬Movie Recommendation System 📽
 
 The Movie Recommendation System is a web application that suggests movie recommendations based on user-selected movies. It uses collaborative filtering techniques and the similarity between movies to generate personalized movie suggestions.
 
@@ -27,4 +27,4 @@ The Movie Recommendation System is a web application that suggests movie recomme
 - Requests: Requests library is used to fetch movie data from the TMDB API.
 
 ## Website OverView:-
-
+![ezgif com-video-to-gif (1)](https://github.com/dhrupad17/Movie-Recommendation-System/assets/91726340/92ff88ad-89d0-4b99-97dc-f622522ff73f)
